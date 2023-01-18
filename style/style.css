@@ -1,8 +1,5 @@
 .body{
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    justify-content: space-between;
+  
 }
 .header, .header-right, .header-left{
     display: flex;
@@ -11,8 +8,10 @@
 }
 
 .content{
-    display: flex;
+    flex: 1;
 }
 
-.top-box{
+.top, .bottom{
+    width: 100px;
+   
 }
