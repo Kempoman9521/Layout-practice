@@ -40,3 +40,9 @@ align-items: center;
     border-radius: 15px;
     border-width: 5px;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
