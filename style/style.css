@@ -35,7 +35,6 @@ a, p{
 }
 
 .top-box, .bottom-box{
-/* border-style: solid; */
 display: flex;
 flex: 1;
 justify-content: space-around;
