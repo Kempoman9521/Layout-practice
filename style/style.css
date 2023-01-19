@@ -26,11 +26,10 @@ body{
 .top-box, .bottom-box{
 border-style: solid;
 display: flex;
-
+flex: 1;
 }
 
 .top, .bottom{
     border-style: solid;
-    flex: 1;
   
 }
