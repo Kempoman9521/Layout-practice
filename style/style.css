@@ -5,6 +5,7 @@ body{
 }
 *{
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 .container{
@@ -16,6 +17,7 @@ body{
     justify-content: space-around;
     gap: 15px;
     padding: 20px;
+    font-size: 20px;
 }
 
 .content{
