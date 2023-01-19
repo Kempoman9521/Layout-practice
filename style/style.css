@@ -21,9 +21,9 @@ a, p{
 .header, .header-right, .header-left{
     display: flex;
     justify-content: space-around;
-    gap: 15px;
+    gap: 60px;
     padding: 20px;
-    font-size: 20px;
+    font-size: 30px;
     background-color: #0A2239;
 }
 
